@@ -2,5 +2,7 @@
 
 This repository practices the git workflow!
 
-It shows a practical example
+It shows a practical example.
+
+This is a third line.
 
